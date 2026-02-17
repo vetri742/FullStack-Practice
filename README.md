@@ -1,0 +1,14 @@
+
+
+# Shopping Cart JS
+
+A simple shopping cart simulation built using JavaScript.
+
+## Features
+- Budget tracking
+- Purchase items
+- Balance calculation
+- Console output
+
+## Tech Used
+- JavaScript
